@@ -1,0 +1,12 @@
+{
+  "name": "chitoge",
+  "version": "1.0.0",
+  "description": "Kirisaki Chitoge",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {}
+}
